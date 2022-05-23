@@ -19,6 +19,8 @@ The project has a few components and dependencies.
 
 ## Getting Started
 
+# here
+
 ### Environment (Docker)
 
 We provide a docker image [secondstate/substrate-ssvm](https://hub.docker.com/r/secondstate/substrate-ssvm) for building and running the Substrate SSVM Node.
