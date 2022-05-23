@@ -3,9 +3,11 @@
 # SUVBSTRATE SSV WASM VIRTUIAL BLOCK CHAIN RESIDENT SMART CONTRACT MACHINE 
 
 
-# Substrate SSVM Node ![build](https://github.com/second-state/substrate-ssvm-node/workflows/build/badge.svg)
+# original >> Substrate SSVM Node ![build](https://github.com/second-state/substrate-ssvm-node/workflows/build/badge.svg)
 
-The primary objective of this project was to bring the Ethereum flavored WebAssembly (EWASM) runtime to Substrate. It enables developer collaboration between the Ethereum and Polkadot/Substrate ecosystems, and promotes inter-blockchain interoperability at the application level. You can now create a Substrate node (or Polkadot parachain) that supports the deployment and execution of EWASM smart contracts.
+The primary objective of this project was to REMOVE the Ethereum DEPENDENCY OF THE ORIGINAL REPOSITORY... and expand the WebAssembly (EWASM) runtime of Substrate across EDGE Devices. 
+
+It enables developer collaboration between the various BLOCK-CHAIN [not just Ethereum and Polkadot/Substrate] ecosystem(s), and promotes inter-blockchain interoperability at the application level. You can now create a Substrate node (or Polkadot parachain) that supports the deployment and execution of EWASM smart contracts.
 
 The project has a few components and dependencies.
 
